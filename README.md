@@ -1,8 +1,8 @@
 # Web Squad Recruitment Challenge
 
-**Working Time:** 8 h
-**Technologies:** Bootstrap grid, Scss, HTML, jQuery, bourbon
-**Requirements:** Mobile first, Animations
+**Working Time:** 8 h <br/>
+**Technologies:** Bootstrap grid, Scss, HTML, jQuery, bourbon <br/>
+**Requirements:** Mobile first, Animations <br/>
 
 ## Description:
 Show us what you can build in about 8 hours. We have sent you designs for a responsive website and now it is your turn to build it. The listed technologies above, are the ones we usually use to develop our websites. Use them if you want to show us that you are confident with using them. Otherwise you are totally free in using other technologies and giving the page another twist. Just keep in mind why you choose to do something different. 
