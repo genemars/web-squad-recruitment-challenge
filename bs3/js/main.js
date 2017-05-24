@@ -53,11 +53,11 @@ $(document).ready(function () {
 });
 
 function scrollingCheck() {
-console.log('scroll check');
     // do measure and behave on scroll position
-    var scrollOffset = mainBody.scrollTop();
+    var scrollOffset = $(window).scrollTop();
     var viewHeight = mainBody.height();
     var coverVisible = (scrollOffset < (viewHeight - navBarHideOffset));
+    //console.log('scroll check', coverVisible, scrollOffset, viewHeight);
     if (coverVisible) {
         if ((scrollOffset > navBarHideOffset) && navBarVisible) {
             navBarVisible = false;
