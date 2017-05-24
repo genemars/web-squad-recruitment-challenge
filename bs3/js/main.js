@@ -53,6 +53,8 @@ $(document).ready(function () {
 });
 
 function scrollingCheck() {
+    // exit if navBar is not yet available
+    if (navBar == null) return;
     // do measure and behave on scroll position
     var scrollOffset = $(window).scrollTop();
     var viewHeight = mainBody.height();
