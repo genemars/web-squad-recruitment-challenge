@@ -1,0 +1,14 @@
+{
+  "name": "nextbike.com",
+  "version": "1.0.0",
+  "description": "Moovel Challenge Site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./bs3"
+  },
+  "author": "Generoso Martello",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
